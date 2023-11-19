@@ -9,13 +9,12 @@ Try to deep learn what is normal take-off distance
 * How do we know when we are airborne
 * What airspeed was required / desired when getting airborne
 * What whas the lenght of roll-off before getting airborne 
-* Use GPS to verify start-off runway
-*   Maybee use sat pictures to see if runway is grass or hard surface
+* Maybee use sat pictures to see if runway is grass or hard surface
 *   Auto identify if condition is grass or pavement
 *   categorise take-off performance based on grass or pavement
-*   look at take-off date and time
-*     Collect met data from geoposition / time and date
-*     Take in account Temperature, Preassure, Rain / percipitation
+* look at take-off date and time
+*   Collect met data from geoposition / time and date
+*   Take in account Temperature, Preassure, Rain / percipitation
 
 
 ***
