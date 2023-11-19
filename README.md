@@ -18,7 +18,7 @@ Try to deep learn what is normal take-off distance and use that as baseline for 
 ***
 
 
-3 files from Dynon Skyview - have in mind that there are 2 screens. SN5171 is First Screen with EMS (Engine monitoring System attached) This screen therefore have more data from when engine warms up- both screens always (should have) data from time of take-off
+3 files from Dynon Skyview - have in mind that there are 2 screens.(Screen 2 is SN5172) SN5171 is First Screen with EMS (Engine monitoring System attached) This screen therefore have more data from when engine warms up- both screens always (should have) data from time of take-off
 
 One file is Waypoints for both screens
 
