@@ -1,11 +1,9 @@
 # dynon
 
-What is my request. Use deep learning on all flight related metrics to learn about aircraft safety envelope. Ask pilot the least amount of questions per flight. fx how many PoB / Estimated weight above empty
+What is my request. Use deep learning on all flight related metrics to learn about aircraft safety envelope. Ask pilot the least amount of questions per flight. fx how many PoB / Estimated weight above empty, this is my list of least amount of questions that cannot be calculated
 * Fuel weight, pilot, passenger, cargo weight - rest shall be gathered or calculated by ML
-* Deep learn all parameters and use that as baseline for future safety envelope
 
-
-Try to deep learn what is normal take-off distance
+Try to deep learn what is normal take-off distance and use that as baseline for future safety envelope
 * How do we know when we are airborne
 * What airspeed was required / desired when getting airborne
 * What whas the lenght of roll-off before getting airborne 
