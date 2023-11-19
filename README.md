@@ -1,11 +1,21 @@
 # dynon
 
-What is my request. Use deep learning on all engine related metrics to learn about temperature deviations from standard - 4 cylinders meassured by 2 and 2 - on measuremtment point left and right
+What is my request. Use deep learning on all flight related metrics to learn about aircraft safety envelope. Ask pilot the least amount of questions per flight. fx how many PoB / Estimated weight above empty
+* Fuel weight, pilot, passenger, cargo weight - rest shall be gathered or calculated by ML
+* Deep learn all parameters and use that as baseline for future safety envelope
 
 
 Try to deep learn what is normal take-off distance
+* How do we know when we are airborne
+* What airspeed was required / desired when getting airborne
+* What whas the lenght of roll-off before getting airborne 
 * Use GPS to verify start-off runway
 *   Maybee use sat pictures to see if runway is grass or hard surface
+*   Auto identify if condition is grass or pavement
+*   categorise take-off performance based on grass or pavement
+*   look at take-off date and time
+*     Collect met data from geoposition / time and date
+*     Take in account Temperature, Preassure, Rain / percipitation
 
 
 ***
